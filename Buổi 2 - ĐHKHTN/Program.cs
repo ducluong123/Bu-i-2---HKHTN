@@ -22,7 +22,7 @@ namespace Buổi_2___ĐHKHTN
             {
                 Console.WriteLine("So nguyen {0} khong chia het cho 3", a);
             }
-     //Thêm cho vui nè he he
+     
             Console.ReadKey();
         }
     }
